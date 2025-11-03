@@ -39,8 +39,8 @@ It features a **fixed navigation menu** that stays visible on scroll and dynamic
 
 1. **Clone this repository:**
    ```bash
-  - **git clone https://github.com/tanisha-0203/SCT_WD_1.git
-  - **cd SCT_WD_1
+   **git clone https://github.com/tanisha-0203/SCT_WD_1.git
+   **cd SCT_WD_1
     
  2. **Open the Project:**
     ```bash
